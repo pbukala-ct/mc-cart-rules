@@ -12,8 +12,8 @@ const config = {
       initialProjectKey: 'wooliesx-poc-01',
     },
     production: {
-      applicationId: 'TODO',
-      url: 'https://your_app_hostname.com',
+      applicationId: 'cllvrtr3z000ay601cllgb8mb',
+      url: 'https://helpful-macaron-5a50a0.netlify.app',
     },
   },
   oAuthScopes: {
